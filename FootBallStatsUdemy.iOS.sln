@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootBallStatsUdemy.iOS", "FootBallStatsUdemy.iOS.csproj", "{CA70B0AA-71B5-4E6B-811D-447E9C968E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Debug|iPhone.Build.0 = Debug|iPhone
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Release|iPhone.ActiveCfg = Release|iPhone
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Release|iPhone.Build.0 = Release|iPhone
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{CA70B0AA-71B5-4E6B-811D-447E9C968E87}.AppStore|iPhone.Build.0 = AppStore|iPhone
+	EndGlobalSection
+EndGlobal
